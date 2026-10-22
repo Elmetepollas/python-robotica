@@ -1,7 +1,7 @@
 # Actividad 10 — El primero y el último
 
 - *Módulo*: 3 · Listas
-- *Fecha límite de entrega*: pendiente de apertura
+- *Fecha límite de entrega*: domingo 1 de noviembre de 2026, 23:59
 - *RA 1*: d) Se han identificado los distintos tipos de variables y la utilidad específica de cada uno. e) Se ha modificado el código de un programa para crear y utilizar variables.
 
 ## Contexto

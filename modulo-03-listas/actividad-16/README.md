@@ -1,7 +1,7 @@
 # Actividad 16 — La misión de los sensores
 
 - *Módulo*: 3 · Listas
-- *Fecha límite de entrega*: pendiente de apertura
+- *Fecha límite de entrega*: domingo 8 de noviembre de 2026, 23:59
 - *RA 1*: d) Se han identificado los distintos tipos de variables y la utilidad específica de cada uno. e) Se ha modificado el código de un programa para crear y utilizar variables.
 - *RA 2*: b) Se han escrito programas simples.
 
