@@ -18,7 +18,7 @@ Practicar la búsqueda y corrección de errores simples leyendo el mensaje que m
 2. Introduce un error y ejecuta el programa. Copia el mensaje real en `solucion/errores.txt`, corrige el error y repite el proceso con otros dos errores, uno cada vez.
 3. Después de cada corrección, vuelve a ejecutar el programa y usa `print()` para comprobar que funciona. No hace falta usar el depurador del editor.
 4. Documenta cada fallo en un `README.md` dentro de `solucion/` con tres líneas: **qué esperaba**, **qué pasó** y **por qué**.
-5. Deja el programa final funcionando y guarda su salida en `solucion/depuracion-salida.txt`.
+5. Deja el programa final funcionando, con al menos tres comentarios que expliquen las correcciones, y guarda su salida en `solucion/depuracion-salida.txt`.
 
 ## Entregable
 
