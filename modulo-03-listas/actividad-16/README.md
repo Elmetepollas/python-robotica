@@ -26,10 +26,9 @@ Añadir un sensor, quitar otro y leer la distancia más cercana y la más lejana
 5. Muestra `len(sensores)` y `len(distancias)`. Tienen que coincidir.
 6. Guarda `sorted(distancias)` en `ordenadas`. Muestra el más cercano, `ordenadas[0]`, y el más lejano, `ordenadas[-1]`.
 7. Muestra los dos primeros nombres que mirará el robot con `sensores[0:2]`.
-8. Añade un comentario que explique que ordenar `distancias` no cambia el orden de `sensores`.
-9. Ejecuta el programa y guarda la salida en `solucion/mision-salida.txt`.
+8. Ejecuta el programa y guarda la salida en `solucion/mision-salida.txt`.
 
-Cada cambio y cada impresión va en su propia línea.
+Ordenar `distancias` no cambia el orden de `sensores`. Cada cambio y cada impresión va en su propia línea.
 
 ## Entregable
 
@@ -43,7 +42,7 @@ Cada cambio y cada impresión va en su propia línea.
 | Presencia se añade, con su distancia, al final de las dos listas | 25 % |
 | Luz y su distancia se quitan con `remove()` y las dos longitudes coinciden | 25 % |
 | El más cercano y el más lejano salen de `sorted()` | 25 % |
-| Se muestra el corte de los dos primeros sensores y el comentario sobre el orden | 15 % |
+| Se muestra el corte de los dos primeros sensores | 15 % |
 | La salida está guardada en `mision-salida.txt` | 10 % |
 
 ## Pista de cara al futuro

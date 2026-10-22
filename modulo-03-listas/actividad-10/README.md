@@ -21,10 +21,9 @@ Leer la longitud de una lista y tres posiciones concretas.
    - el primero, `ordenes[0]`;
    - el segundo, `ordenes[1]`;
    - el último, `ordenes[-1]`.
-5. Añade un comentario que explique que el primer elemento es el índice 0.
-6. Ejecuta el programa y guarda la salida en `solucion/posiciones-salida.txt`.
+5. Ejecuta el programa y guarda la salida en `solucion/posiciones-salida.txt`.
 
-Cada posición se imprime con su propio `print()`.
+El primer elemento es el índice 0. Cada posición se imprime con su propio `print()`.
 
 ## Entregable
 
@@ -35,10 +34,9 @@ Cada posición se imprime con su propio `print()`.
 
 | Criterio | Peso |
 |---|---|
-| Se muestra la longitud con `len()` | 25 % |
-| Se muestran el índice 0, el índice 1 y el índice -1 | 40 % |
-| Hay un comentario que explica que el primero es el 0 | 15 % |
-| La salida está guardada en `posiciones-salida.txt` | 20 % |
+| Se muestra la longitud con `len()` | 29 % |
+| Se muestran el índice 0, el índice 1 y el índice -1 | 47 % |
+| La salida está guardada en `posiciones-salida.txt` | 24 % |
 
 ## Pista de cara al futuro
 

@@ -19,8 +19,9 @@ Cortar una lista en dos tramos y comprobar qué índices entran en el corte.
 3. Muestra la ruta completa.
 4. Muestra el tramo `ruta[0:3]`.
 5. Muestra el tramo `ruta[2:5]`.
-6. Añade un comentario que recoja lo que observas: el índice final del corte no se incluye.
-7. Ejecuta el programa y guarda la salida en `solucion/cortar-salida.txt`.
+6. Ejecuta el programa y guarda la salida en `solucion/cortar-salida.txt`.
+
+El índice final del corte no entra.
 
 ## Entregable
 
@@ -31,10 +32,9 @@ Cortar una lista en dos tramos y comprobar qué índices entran en el corte.
 
 | Criterio | Peso |
 |---|---|
-| La ruta tiene los seis pasos en el orden pedido | 20 % |
-| Se muestran los cortes `ruta[0:3]` y `ruta[2:5]` | 40 % |
-| Un comentario explica que el índice final no entra en el corte | 20 % |
-| La salida está guardada en `cortar-salida.txt` | 20 % |
+| La ruta tiene los seis pasos en el orden pedido | 25 % |
+| Se muestran los cortes `ruta[0:3]` y `ruta[2:5]` | 50 % |
+| La salida está guardada en `cortar-salida.txt` | 25 % |
 
 ## Pista de cara al futuro
 
